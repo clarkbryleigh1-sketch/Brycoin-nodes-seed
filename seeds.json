@@ -1,4 +1,4 @@
 {
-  "seeds": ["http://brycoin-au-01.wispbyte.org:14474"],
-  "trackers": ["http://brycoin-au-01.wispbyte.org:14474"]
+  "seeds": ["https://brycoin-au-01.wispbyte.org"],
+  "trackers": ["https://brycoin-au-01.wispbyte.org"]
 }
